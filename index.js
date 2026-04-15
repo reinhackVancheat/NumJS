@@ -1,5 +1,5 @@
-import { Matrix } from './Matrix.js';
-import { MatrixMath } from './MatrixMath.js';
+import { Matrix } from './matrix_operations/Matrix.js';
+import { MatrixMath } from './matrix_operations/MatrixMath.js';
 
 
 export { Matrix, MatrixMath };
